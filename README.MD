@@ -8,7 +8,7 @@
 
 ### ALUNO:
 ````
-- Nome : Vitor Ginza
-- Git : Vitorgz01
+- Nome :  Arthur Vieira
+- Git : V1EIR4
 - Instituição de Ensino:
 ````
